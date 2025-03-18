@@ -46,7 +46,7 @@
 
 ## Usage
 
-<video src="./Assets/Test_Quiz_Walkthrough.mp4" controls></video>
+[Video Walkthrough](https://drive.google.com/file/d/1sU8dv5VV3QrfnZyiCnwIGNXLo0j8Ysfc/view?usp=sharing)
 
 
 ## License
